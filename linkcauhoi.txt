@@ -1,2 +1,36 @@
-https://api6.va24a1g4ha24a3.org/esms/v1/t
-https://api4.va24a1g4ha24a3.org/esms/v1/t
+{
+  "cauhoi": [
+    {
+      "Xã nào đông dân nhất?": [
+        "Xã hội.",
+        "Xã đoàn",
+        "Xã giao",
+        "Xã thôn"
+      ],
+      "Con gì đập thì sống, mà không đập thì chết?": [
+        "Con tim",
+        "Con ngươi",
+        "Con cáo",
+        "Con chồn"
+      ],
+      "Trên nhấp dưới giật là đang làm gì": [
+        "Câu cá",
+        "Thợ sửa ống nước",
+        "Chơi bập bênh",
+        "chụp hình"
+      ],
+      "Nơi nào con trai có thể sinh con": [
+        "Dưới nước",
+        "Trên cây",
+        "Ở bệnh viên",
+        "Trong phim"
+      ],
+      "Kiến gì không bao giờ ngủ": [
+        "Kiến thức",
+        "Kiến lửa",
+        "Kiến ba khoang",
+        "Kiến tạo"
+      ]
+    }
+  ]
+}
